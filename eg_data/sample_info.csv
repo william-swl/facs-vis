@@ -1,0 +1,6 @@
+﻿plate,pos,sample,cell,ab,fluo
+plate1,A1,S1,PETcon-antigen-display-myc,/,/
+plate1,A4,S2,PETcon-antigen-display-myc,/,MYC-FITC/HA-APC/anti-human-PE
+plate1,B1,S3,PETcon-antigen-display-myc,CX328-0165,MYC-FITC/HA-APC/anti-human-PE
+plate1,B2,S4,PETcon-antigen-display-myc,CX328-0223,MYC-FITC/HA-APC/anti-human-PE
+plate1,B3,S5,PETcon-antigen-display-myc,CX328-1275,MYC-FITC/HA-APC/anti-human-PE
